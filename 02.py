@@ -12,9 +12,6 @@ def is_palindrome(input_string):
     return True
 
 
-# Test
-
-
 def main():
     test_strings = [
         "кит на морі романтик",
